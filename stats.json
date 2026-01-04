@@ -1,0 +1,25 @@
+{
+  "total_global_paginas_com_resultados": 26,
+  "total_global_registros_unicos": 1000,
+  "ritmo_sessao": {
+    "5min": {
+      "novas_paginas": 36,
+      "media_pag_min": 7.2,
+      "novos_registros": 1000,
+      "media_reg_min": 200.0
+    },
+    "30min": {
+      "novas_paginas": 36,
+      "media_pag_min": 1.2,
+      "novos_registros": 1000,
+      "media_reg_min": 33.33
+    },
+    "180min": {
+      "novas_paginas": 36,
+      "media_pag_min": 0.2,
+      "novos_registros": 1000,
+      "media_reg_min": 5.56
+    }
+  },
+  "timestamp_atualizacao": "2026-01-04T23:39:41.643167"
+}
