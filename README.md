@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://caarleexx-para-ai.hf.space" target="_blank">
-    <img src="[https://i.imgur.com/uF20T7D.png](https://caarleexx-para-ai.hf.space/)" alt="Painel de Monitoramento do Projeto para-Ai" width="850">
+    <img src="[[https://i.imgur.com/uF20T7D.png]([https://huggingface.co/spaces/caarleexx/para-Ai/resolve/main/ParaAi.jpg](https://huggingface.co/spaces/caarleexx/para-Ai/resolve/main/ParaAi.jpg))](https://caarleexx-para-ai.hf.space/)" alt="Painel de Monitoramento do Projeto para-Ai" width="850">
   </a>
 </p>
 
