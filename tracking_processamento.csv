@@ -1,0 +1,3 @@
+Id,id_chunk_dados_tjpr,total_proc_ok,data_ini,data_fim,tokens_processados_total
+CHUNK_000001,000001.tar,10,2026-01-05T21:42:03.719577,2026-01-05T21:42:03.720673,79298
+CHUNK_000002,000001.tar,2,2026-01-05T21:42:06.649509,2026-01-05T21:42:06.649741,16710
