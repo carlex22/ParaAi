@@ -1,0 +1,10 @@
+# requirements (1).txt
+requests
+huggingface_hub
+gradio
+torch
+python-dotenv
+psutil
+fastapi
+uvicorn[standard]
+GitPython
