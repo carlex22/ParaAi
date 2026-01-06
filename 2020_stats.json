@@ -1,25 +1,25 @@
 {
-  "total_global_paginas": 3143,
-  "total_global_processos": 133226,
+  "total_global_paginas": 3167,
+  "total_global_processos": 134263,
   "ritmo_sessao": {
     "5min": {
-      "novas_paginas": 152,
-      "media_pag_min": 30.4,
-      "novos_processos": 5668,
-      "media_proc_min": 1133.6
+      "novas_paginas": 170,
+      "media_pag_min": 34.0,
+      "novos_processos": 6063,
+      "media_proc_min": 1212.6
     },
     "30min": {
-      "novas_paginas": 910,
-      "media_pag_min": 30.33,
-      "novos_processos": 31912,
-      "media_proc_min": 1063.73
+      "novas_paginas": 937,
+      "media_pag_min": 31.23,
+      "novos_processos": 32941,
+      "media_proc_min": 1098.03
     },
     "180min": {
-      "novas_paginas": 4325,
-      "media_pag_min": 24.03,
-      "novos_processos": 133226,
-      "media_proc_min": 740.14
+      "novas_paginas": 4356,
+      "media_pag_min": 24.2,
+      "novos_processos": 134263,
+      "media_proc_min": 745.91
     }
   },
-  "timestamp_atualizacao": "2026-01-06T11:27:01.568053"
+  "timestamp_atualizacao": "2026-01-06T11:27:35.568370"
 }
