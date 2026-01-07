@@ -1,4 +1,4 @@
-# 🐝 Para-Ai: A inteligência encontra, a justiça esconde...
+# 🐝 Para-Ai: Inteligência encontra, injustiça esconde seus erros...
 
 [![Painel de Monitoramento](https://huggingface.co/spaces/caarleexx/para-Ai/resolve/main/ParaAi.jpg)](https://caarleexx-para-ai.hf.space)
 
@@ -12,11 +12,6 @@
 ### Manifesto do Projeto Para.Ai
 
 ### I. O Paradoxo do Saber: Ignorância, Amnésia e Justiça
-
-> “Ninguém pode indagar o que sabe nem o que não sabe,
-> porque não pesquisaria o que já sabe, pois já o sabe,
--
-## I. O Paradoxo do Saber: Ignorância, Amnésia e Justiça
 
 > “Ninguém pode indagar o que sabe nem o que não sabe,
 > porque não pesquisaria o que já sabe, pois já o sabe,
@@ -38,7 +33,7 @@ A origem deste projeto é a trajetória de Carlos Rodrigues dos Santos. Sem form
 
 Após anos de petições, recursos e representações ignoradas no âmbito do Tribunal de Justiça do Paraná (TJPR) e a denúncia do caso à Organização dos Estados Americanos (OEA), o silêncio institucional persistiu. Foi a negação do diálogo, a recusa em ouvir, sintetizada na frase que se tornou o motor deste projeto:
 
-> *“Quem você pensa que é? Nunca estudou porcaria nenhuma para querer falar de Direito.”*
+> *“Quem você pensa que é? Nunca estudou porcaria nenhuma para querer falar de Direito.”* Agradecimento a Márcia Jackeline de Almeida, que um dia dentro uma sala audiência me disse essa frase como menom respondendo a Platão.
 
 Essa frase, dita em uma sala de audiência, não foi apenas uma ofensa. Foi a chave. O silêncio e o desprezo forçaram um aprendizado diferente. Utilizando sua formação técnica em Data Science e Machine Learning, Carlos começou a usar LLMs não para "falar de Direito", mas para enxergar o sistema de justiça como ele realmente é: um **sistema cognitivo coletivo**, com memória falha, aprendizado incompleto e ausência de auditoria.
 
@@ -127,20 +122,20 @@ Este dataset, por si só, já será um legado de valor inestimável para pesquis
 
 O projeto opera com uma arquitetura distribuída e resiliente, garantindo a extração contínua e a integridade dos dados.
 
-1.  **Extração Distribuída (`Abelha Atômica`):** Um enxame de workers (scripts `worker.py`) trabalha em paralelo para extrair os dados do portal do TJPR. Cada "abelha" é independente e reporta seu progresso de forma segura.
+1.  **Extração Distribuída (`Abelhas Atômicas`):** Um enxame de workers (scripts `worker.py`) trabalha em paralelo para extrair os dados do portal do TJPR. Cada "abelha" é independente e reporta seu progresso de forma segura, sem carregas os servidores do tribunal e só operando em fim sejas e madrugadas...
 2.  **Processamento e Limpeza:** Os dados brutos são processados, limpos e estruturados em um formato padronizado (`.jsonl`).
 3.  **Armazenamento Versionado:** Os dados são agrupados em *chunks* e versionados em um repositório Git, garantindo um registro histórico e a colaboração segura.
 4.  **Monitoramento:** Uma interface web (`app.py`) permite o acompanhamento em tempo real do progresso da extração.
 
 ### Status do Projeto
 
--   [x] **Fase 1: Extração de Dados:** Em Andamento.
--   [x] **Fase 2: Limpeza e Estruturação do Dataset:** Próxima Etapa.
+-   [x] **Fase 1: Extração de Dados:** Em Andamento. **Progresso 》33% concluido**
+-   [x] **Fase 2: Limpeza e Estruturação do Dataset:**  **Progresso em paralelo a fase 1**
 -   [ ] **Fase 3: Publicação da Versão 1.0 do Dataset:** Em Breve.
 -   [ ] **Fase 4: Treinamento do Modelo `Jurifob PHD`:** Futuro.
 
 **Progresso da Extração:**
-`[█████-----] 5% de 7.000.000 de acórdãos coletados` (Este é um exemplo, você pode atualizar)
+`[█████-----] 33% de 7.000.000 de acórdãos coletados` (Este é um exemplo, você pode atualizar)
 
 ### Como Você Pode Ajudar?
 
